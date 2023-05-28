@@ -1,0 +1,83 @@
+
+ 
+
+ created a secret key for 'openai'
+ ---------------------------------------
+https://beta.openai.com/docs/quickstart/build-your-application
+In the middle of the page, press the  button 'create a new  secret key'
+ 
+ 
+ 
+ https://beta.openai.com/playground/
+ https://platform.openai.com/playground
+ 
+ 
+
+ created a secret key for 'openai'
+ ---------------------------------------
+https://beta.openai.com/docs/quickstart/build-your-application
+In the middle of the page, press the  button 'create a new  secret key'
+
+ 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
+ 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
+ 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
+ 
+ https://beta.openai.com/playground/
+ https://platform.openai.com/playground
+
+
+hatGPT can be used for FREE by accessing the Better ChatGPT website at
+ 1.open  https://bettergpt.chat/.  
+ 2. Go to the API settings and select "Use custom API endpoint.
+ 3. input https://free.churchless.tech/v1/chat/completions as the endpoint and leave the API key field blank. 
+
+Remember to join our discord group https://discord.gg/g3Qnwy4V6A for future updates!
+
+
+# Build An AI Image Generator With OpenAI & Node.js
+11:00
+https://www.youtube.com/watch?v=fU4o_BKaUZE
+----------------------------------
+This is a simple image generator built with Node.js and Express that uses [OpenAI's Dall-E models](https://beta.openai.com/docs/guides/images) to generate images.
+
+<img src="public/img/screen.png" width="500">
+
+## Usage
+
+
+1. npm init -y # Generate   jason file without having it ask any questions 
+2. npm install express openai dotenv
+3. npm i -D nodemon
+
+4. In the "package.json" file change the  scripts item to:
+
+   "scripts": {
+        "start": "node index",
+        "dev": "nodemon index"
+     },
+Rename the `example.env` file to `.env`.
+
+Generate an API KEY at [OpenAI](https://beta.openai.com/) and add it to the `.env` file.
+
+ 
+
+Run server:       npm run dev
+
+Visit `http://localhost:5000` in your browser.
+
+The endpoint is at `POST http://localhost:5000/openai/generateimage`.
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ in python run :pip  install   openai
+ 
+David Shapiro ~ AI
+
+ https://www.youtube.com/watch?v=9971sxBhEyQ
+ https://github.com/daveshap/PythonGPT3Tutorial

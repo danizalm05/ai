@@ -1,0 +1,22 @@
+
+ created a secret key for 'openai'
+ ---------------------------------------
+https://beta.openai.com/docs/quickstart/build-your-application
+In the middle of the page, press the  button 'create a new  secret key'
+ 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
+ 
+ 
+ https://beta.openai.com/playground/
+ https://platform.openai.com/playground
+ 
+ 
+ 
+MidJourney-Styles-and-Keywords-Reference
+
+https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Just_The_Style/Artists.md
+
+https://docs.midjourney.com/
+
+
+
+https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
