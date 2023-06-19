@@ -3,7 +3,13 @@
    dan   Pas
 https://ai-finder.net 
 ------------------------------ 
-   https://picfinder.ai/
+ https://openart.ai/create
+   https://picfinder.ai/share/k/
+  Zz73b4xNA 2KMcvj4JA lis xtkHAejn1 mona Drat4WH3u   kall
+   g5UnR74Wl dol Y8hCqpsn3   man ray
+   
+     https://dezgo.com/
+   https://dezgo.com/?model=absolute_reality_1   
    a cat style de Nicolas de Crécy elegant extremely detailed intricate pencil sketch 
  
 https://scum.co 
@@ -11,16 +17,11 @@ https://theresanaiforthat.com/ai/scum/?ref=search&term=nsfw%20generator
 https://boredhumans.com/text-to-image.php 
 
 lunapic
-https://www1.lunapic.com/editor/?action=delaunay
-https://www1.lunapic.com/editor/?action=polygons
+ 
 https://www1.lunapic.com/editor/index.php?action=devilish
-https://www1.lunapic.com/editor/?action=psychedelic
+ 
 
-https://www1.lunapic.com/editor/index.php?action=explode
-https://www3.lunapic.com/editor/?action=resize
-
-voice
-https://beta.elevenlabs.io/speech-synthesis
+ 
 
 
  image colorizer zam  6g
@@ -35,7 +36,7 @@ https://www.befunky.com/create/
 
 ---------  -------------------
 https://deepdreamgenerator.com/
-https://dezgo.com/
+ 
 https://scribblediffusion.com/
 
 https://stablediffusionweb.com/#demo
@@ -53,73 +54,29 @@ https://hotpot.ai/art-generator
 
 https://useum.org/ 
 
-
-Negative Prompt 
----------------------------
-disfigured, ugly, deformed, disfigured, mutated, ugly, blurry,
- mutilated, watermark,  
-picture in picture, picture on the wall, mangled, old, frame
-
-mythological painting
-dali oil painting 
-Giorgio de Chirico 
- Jacopo Amigoni Rembrandt
-Giudizio universale יום הדין  Michelangelo 
-
-Venus And Adonis Oedipus and the Sphinx. White Crucifixion    
-Jupiter and Thetis
-auschwitz Guernica picaso
-woman in a bottle  
-Boris Vallejo    sicence fantaziy
- Lucian Freud   
-Caravaggio
-Rubens Goya Bouguere
-Botticelli
-Eugene Emmanuel 
-Rubens, 
-Auguste Renoir  Monet
-Edward Hopper 
-de hoogh, hals 
-bloemaert, Andrew Wyeth
-Magritte
-Jeremiah looking to Jerusalem , Auguste Rodin  
-The Madonna of Bruges , Sculpture Michelangelo 
-
-Paulina Góra
-Catherine Abel  
-Edouard Manet
-
-hymn longing for light  
-
-
-1. White clouds and a snowy landscape by Jacek Yerka. Many white 
-     rolling hills and leafless trees.
-2.beautiful celestial scene, by Vladimir Kush,  meticulously 
- detailed and intricate clouds,
- 8K resolution, ethereal, divine, celestial, unreal engine,
-3.an old man with a very  big  clock by Jacek Yerka. 
-Many white rolling hills and leafless trees. 
-4.fantasy city street, fabulous houses, snowy, Giovanni Antonio 
-Canaletto style,
-
-5. old man holding a flower  Gediminas Pranckevicius Impressionist 
-55.Auschwitz concentration camp Gediminas Pranckevicius Impressionist hyperdetailed charcoal drawing
-6. Catherine Abel  Impressionist Oil painting, colorful, bright, painted impasto with thick palette knife.
-
-
-
-7.
- Prompt: 
-  Oil painting, colorful, bright,impasto with thick palette knife.  
- Modifiers:
-  fantasy oil on canvas beautiful imperial colors colourful 
-  Jacek Yerka light reflections
-  Gediminas Pranckevicius Impressionist 
-  
-  30%
-8.  The Mad Hatter  , Caspar David Friedrich, Dan Seagrave, , oil painting  
-  
-9. face - monochrome  style of Ralph Steadman  
  
-10.  portrait of woman in muted colors, 
-      cubist design, Picasso, Modigliani 
+ 1. photo or a painting?
+2.  subject of the photo? Person? An animal  landscape?
+3. What details do you want to add?
+○ Special Lighting. Soft, ambient, ring light, neon
+○ Environment. Indoor, outdoor, underwater, in space
+○ Color Scheme. Vibrant, dark, pastel
+○ Point of view. Front, Overhead, Side
+○ Background. Solid color, nebula, forest
+4. Art style? 3D render, studio ghibli, movie poster
+5. Photo type? Macro, telephoto
+
+
+type         Style       Subject Lighting Context   Lens      Device
+Close-up    polaroid      Woman    Soft    Indoor   Wide-angle iPhone X
+Close-up    Monochrome    Old man  Ambient Outdoor  Telephoto  CCTV
+POV         Long exposure Cat      Ring    At night 24mm Nikon Z FX
+Medium shot Color splash  Bunny    Sun      park    EF 70mm Canon
+Long shot   Tilt-shift    Ferrari Cinematic Studio  Bokeh   Gopro
+
+Photography Styles
+   Polaroid Monochrome, 800mm   Thermal  
+Lighting
+     Nostalgic,   Purple Neon, Sun Rays
+Art Mediums
+      Chalk, Graffiti,Pencil Drawing,wood,Clay	 
