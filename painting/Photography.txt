@@ -2,43 +2,20 @@ Ai Prompts To Generate High-Quality Photography Portraits
 S.No.	Prompts For Hyperrealistic Photography Portraits
 
 
-1	 woman by Steve McCurry, 35mm, F/2.8, insanely detailed and intricate, character, hypermaximalist, elegant, ornate, beautiful, exotic, revealing, appealing, attractive, amative, hyper-realistic, super detailed, popular on Flickr
-2	“close-up portrait, elderly man, natural light, sharp, detailed face, magazine, press, photograph, david lazar, canon, nikon, focus,”
-3	“Portrait of a rock star covered in jewel-encrusted clothing, detailed face, magazine, fantasy forest background, artwork by David LaChapelle, low light, moonlight, highly detailed, 8k, close-up”
-4	“Annie Leibovitz’s photograph of an anime girl in a hot tub is close-up, foggy, sepia, moody, dreamlike, and sigma, 85mm f/1.4, 15mm, 35mm, 4k, high resolution, 4k, 8k, hd, full colour, 4k, 8k, 4k, high definition”
-5	“Portrait photograph of an elderly African warrior chief with a tribal panther mask, gold on white, side profile, averted gaze, and serious eyes, 50mm portrait photography, photography with hard rim lighting”
-6	“a character portrait photograph of a smiling old japanese man, optimistic, photojournalism, war photography, adobe, canon, nikon, flickr contest winner, neo-expressionism, art photography, busy background, hyperrealism, chiaroscuro, anamorphic lens flare, elegant, shallow depth of field, haze, volumetric lighting, photo taken with provia, 24mm, f1.8, by Filip Hodas, by Andrew Do”
-7	“Gorgeous homeless gentleman, detailed face, foggy, 35mm, F/2.8, 4k, photojournalism, busy background, volumetric lighting, neo-expressionism, art photography”
-8	“Sharp focus, elegance, render, octane, detail, award-winning photography, masterpiece, rim lighting”
-9	“Punk girl, profile photo, grunge style, incredibly detailed, reflection, octane, detailed face, 35mm, F/2.8, 4k”
-10	“Perfect Facial Features is a photo portrait of a woman with a hyperrealistic, ideal face template, Fujifilm X-T3, 1/1250sec at f/2.8, ISO 160, 84mm”
-11	“Girl with sad eyes, portrait, brown hair, red night, oil, HQ, 4k, HQ, HQ”
-12	“Victorian living room ghost and young woman, black and white, volumetric lighting, ultradetailed face, realistic portrait, gorgeous face, long braided hair, realistic photograph, by caravaggiom award winning photo, very sharp, full body, ultradetailed, beautiful light, beautiful eyes”
-13	“Front man with a hoodie and a cap hiding those eyes”
-14	“Out of focus photorealistic portrait of a beautiful!!! aesthetic!!! pale young woman by sarah moon, very blurry, translucent white skin, closed eyes, foggy, kodak film, ultra realistic face, photorealistic effect, 8k, perfetc eyes, perfect edges, perfetc body and hair ultra realistic, hair with great details, face photorealistic, perfect face, perfect anatomy, clouds, fog, smoke, cloud”
-15	“intricate, elegant, by alyssa monks, highly detailed, non symmetrical facial expression, fine details, masterpiece, trending on artstation”
-16	“Girl soft lighting, glamorous, sophisticated, studio photography”
-17	“highly detailed, close-up photography of a face, grungy style”
-18	“Highly detailed Portrait of a beautiful young lady with white hair and sharp eyes, 35 mm, 8k, sharp”
-19	“Portrait of a beutiful young woman, She is swedish and wears a tight black dress, She is 18
-20	“A close-up shot of a woman with a pensive expression, wearing a dark, off-the-shoulder dress and a single, statement piece of jewelry, The background should be out of focus and feature soft, warm tones”
-21	“A portrait of a man in a formal suit and tie, sitting at a desk with a stack of papers and a pen in front of him, The background should be a bookshelf filled with leather-bound books”
-22	“A shot of a couple sitting on a bench in a park, with the woman resting her head on the man’s shoulder, The background should feature lush greenery and a clear blue sky”
-23	“A portrait of a young girl in a white, flowy dress, standing in a field of wildflowers with the sun setting behind her”
-24	“A close-up shot of a man with a rugged, rugged look, wearing a denim jacket and a beanie, The background should be out of focus and feature a gritty, urban setting”
-25	“A portrait of a woman in a black, form-fitting dress and high heels, sitting on a stool in a dimly lit bar, The background should feature a blurred crowd and a neon sign”
-26	“A shot of a family sitting on a blanket on the beach, with the parents holding a young child between them, The background should feature the ocean and a clear blue sky”
-27	“A portrait of a man in a tuxedo, standing in front of a grand piano, The background should be out of focus and feature a dimly lit concert hall”
-28	“A close-up shot of a woman with a serious expression, wearing a black leather jacket and a fedora, The background should be out of focus and feature a gritty, urban setting”
-29	“A portrait of a couple standing in front of a rustic barn, with the woman wearing a flowy white dress and the man wearing a suit, The background should feature a picturesque countryside setting”
-30	“A shot of a group of friends sitting around a campfire, with the background featuring a starry night sky and a forest”
-31	“A portrait of a man in a suit and tie, standing in front of a skyscraper, The background should feature a blurred cityscape”
-32	“A close-up shot of a woman with a serene expression, wearing a white sundress and a wide-brimmed hat, The background should be out of focus and feature a lush garden setting”
-33	“A portrait of a couple sitting on a park bench, with the background featuring a lake and a bridge”
-34	“A shot of a man wearing a motorcycle leather jacket, standing in front of his bike
-35	“A portrait of a woman wearing a red dress, standing in front of a large window with a cityscape view”
-36	“A close-up shot of a man with a serious expression, wearing a suit and tie, sitting at a desk with papers and a pen in front of him, The background should be a bookshelf filled with leather-bound books”
-37	“A portrait of a family standing in front of a white picket fence, with the background featuring a picturesque countryside setting”
-38	“A shot of a couple sitting on a pier, with the background featuring a sunset and a body of water”
+1	 woman by Steve McCurry, 35mm, F/2.8, insanely detailed and intricate, character, hypermaximalist, elegant, ornate, beautiful, exotic, revealing, appealing, attractive, amative, hyper-realistic, super detailed,with Cumulonimbus clouds, lake, reflection, sun rays, sunset, popular on Flickr
+ 
+2.  Dancing people in the evening, seen from behind, sunset, Canon EOS 1000D, ƒ/3.5, focal length: 18.0 mm, exposure time: 1/5, ISO 400, flash on. 
+ 
+ 
 39	“A portrait of a woman wearing a black dress and pearls, sitting in front of a fireplace, The background should feature a library or living room setting with bookshelves and antique furniture”
 40	“Full body portrait of a beautiful and sexy young woman, She is Swedish and wears a Skim dress, She is 18, Large eyes, large lips, small nose, summer evening, Looks like Christina Hendricks, Photograph taken with Canon EOS R3”
+
+41 and the moon rose, over an open field, Albert Gleizes figure style, beautiful blended hues style of Joseph Stella, fine art (figurative:1.6) oils, landscape format full width single image 768x512
+ 
+ 
+ 
+ photographic portrait by Annie Leibovitz of a dog in a hot tub, closeup, foggy, sepia, moody, dream-like, sigma 85mm f/1.4, 15mm, 35mm, 4k, high resolution, 4k, 8k, hd, full color
+
+
+
+ 

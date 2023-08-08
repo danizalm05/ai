@@ -1,26 +1,35 @@
- 
-   https://replicate.com/methexis-inc/img2prompt 
-   dan   Pas
-https://ai-finder.net 
------------------------------- 
- https://openart.ai/create
-   https://picfinder.ai/share/k/
-  
+Copy  image shift+win+s
+Copy only the image of the active window ALT+PRINT SCREEN.
+
+https://replicate.com/methexis-inc/img2prompt    turn image to  prompet
    
-     https://dezgo.com/
-   https://dezgo.com/?model=absolute_reality_1   
-   a cat style de Nicolas de Crécy elegant extremely detailed intricate pencil sketch 
- 
+   dan   Pas
+https://ai-finder.net      AI menu
+------------------------------ 
+
+https://openart.ai/create
+https://deepdreamgenerator.com/
+https://clipdrop.co/ 
+https://picfinder.ai/share/k/
+https://dezgo.com/
 https://scum.co 
-https://theresanaiforthat.com/ai/scum/?ref=search&term=nsfw%20generator
+
+
+https://useum.org/    Art directory
+
+ 
 https://boredhumans.com/text-to-image.php 
 
-lunapic
  
-https://www1.lunapic.com/editor/index.php?action=devilish
  
 
  
+
+ 
+https://prompthero.com/    zam 6g
+
+
+
 
 
  image colorizer zam  6g
@@ -30,11 +39,12 @@ https://labs.openai.com/
 https://beta.dreamstudio.ai/dream   discord  dani   Pa
 https://www.craiyon.com/
 
-befunky
-https://www.befunky.com/create/
+photo editor
+https://www.befunky.com/create/      
+https://www1.lunapic.com/editor/index.php?action=devilish
 
 ---------  -------------------
-https://deepdreamgenerator.com/
+
  
 https://scribblediffusion.com/
 
@@ -51,7 +61,7 @@ https://creator.nightcafe.studio/
      stable
 https://hotpot.ai/art-generator
 
-https://useum.org/ 
+
 
  
  1. photo or a painting?
