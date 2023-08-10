@@ -1,5 +1,6 @@
 Copy  image shift+win+s
 Copy only the image of the active window ALT+PRINT SCREEN.
+c0ke7er 
 
 https://replicate.com/methexis-inc/img2prompt    turn image to  prompet
    
