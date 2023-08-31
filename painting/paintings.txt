@@ -1,3 +1,8 @@
+  I just started to learn the blockchain technology and NFT. So right now the only thing I can give you is a bigger version of the photos you want. Just sand me the list of the photos and the sizes.
+
+
+
+
 Copy  image shift+win+s
 Copy only the image of the active window ALT+PRINT SCREEN.
 c0ke7er 
@@ -8,7 +13,8 @@ https://replicate.com/methexis-inc/img2prompt    turn image to  prompet
    dan   Pas
 https://ai-finder.net      AI menu
 ------------------------------ 
-app.leonardo.ai    za  6G
+
+ 
 https://openart.ai/create
 https://deepdreamgenerator.com/
 https://clipdrop.co/ 
@@ -18,22 +24,20 @@ https://picfinder.ai/share/k/
 https://scum.co 
 
 --------------------------------
-https://app.runwayml.com/    
+https://playgroundai.com/
+https://app.runwayml.com/         ..../ai-tools/text-to-image
+app.leonardo.ai    za6G
+https://boredhumans.com/text-to-image.php 
+
 https://tinywow.com/image/ai-image-generator   200 A.I   tools 
 
 
 ------------------
 https://useum.org/    Art directory
-
- 
-https://boredhumans.com/text-to-image.php 
-
- 
+https://www.artstation.com/
  
 
- 
 
- 
 https://prompthero.com/    zam 6g
 
 
@@ -42,7 +46,7 @@ https://prompthero.com/    zam 6g
 
  image colorizer zam  6g
 
-https://labs.openai.com/
+
 
 https://beta.dreamstudio.ai/dream   discord  dani   Pa
 https://www.craiyon.com/
@@ -54,7 +58,7 @@ https://www1.lunapic.com/editor/index.php?action=devilish
 ---------  -------------------
 
  
-https://scribblediffusion.com/
+
 
 https://stablediffusionweb.com/#demo
 -----------------------------
@@ -62,7 +66,7 @@ https://stablediffusionweb.com/#demo
 
 
 replicate
-https://replicate.com/explore 
+https://replicate.com/explore     Image restoration , /style-transfer
 
 
 https://creator.nightcafe.studio/ 
@@ -97,3 +101,6 @@ Lighting
      Nostalgic,   Purple Neon, Sun Rays
 Art Mediums
       Chalk, Graffiti,Pencil Drawing,wood,Clay	 
+	  
+https://www.deviantart.com/flaubert1	
+Thanks! Always appreciated  
