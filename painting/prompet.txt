@@ -1,4 +1,4 @@
- 
+ Postapocalptic
  style of Bouguereau  . 
  background a fishing village with a few lights on a foggy fall morning, ink painting by Endre Penovac  
  style of hieronymus bosch, 
@@ -28,6 +28,17 @@ dali oil painting
 Giorgio de Chirico 
  Jacopo Amigoni Rembrandt
 Giudizio universale יום הדין  Michelangelo 
+
+Two lonly   figures  
+style of  Ansel Adams
+ cinematic lighting, very high detailed, foggy Post war urban background,
+ shot on Fujifilm Superia 400, Bright Light, 32k,
+ cinematic composition, professional color grading, film grain,
+ atmosphere, wondrous, 
+ stormy, cinematic lighting, very high detailed 
+  
+
+
 
 Venus And Adonis Oedipus and the Sphinx. Cupid and Psyche White Crucifixion    
 Jupiter and Thetis
@@ -100,3 +111,5 @@ Negative Prompt
 disfigured, ugly, deformed, mutated, ugly, blurry,
  mutilated, watermark,  
 picture in picture, picture on the wall, mangled, old, frame
+
+ 
