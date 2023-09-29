@@ -1,7 +1,6 @@
-  I just started to learn the blockchain technology and NFT. So right now the only thing I can give you is a bigger version of the photos you want. Just sand me the list of the photos and the sizes.
-
-
-
+ 
+ 
+  
 
 Copy  image shift+win+s
 Copy only the image of the active window ALT+PRINT SCREEN.
@@ -20,6 +19,8 @@ https://deepdreamgenerator.com/
 https://clipdrop.co/ 
 https://dezgo.com/
 https://picfinder.ai/share/k/
+ prompthero.com/ 
+
  
 https://scum.co 
 
@@ -40,11 +41,7 @@ https://www.artstation.com/
 
 https://prompthero.com/    zam 6g
 
-
-
-
-
- image colorizer zam  6g
+image colorizer zam  6g
 
 
 
@@ -52,6 +49,9 @@ https://beta.dreamstudio.ai/dream   discord  dani   Pa
 https://www.craiyon.com/
 
 photo editor
+--------
+https://www.imgtools.co/convert-image       convert-image
+https://www.imgtools.co/resize-image        bach resize
 https://www.befunky.com/create/      
 https://www1.lunapic.com/editor/index.php?action=devilish
 
@@ -68,7 +68,7 @@ https://stablediffusionweb.com/#demo
 replicate
 https://replicate.com/explore     Image restoration , /style-transfer
 
-
+https://www.mage.space/   zam 6g
 https://creator.nightcafe.studio/ 
      stable
 https://hotpot.ai/art-generator
