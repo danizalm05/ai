@@ -1,6 +1,13 @@
 Ai Prompts To Generate High-Quality Photography Portraits
 S.No.	Prompts For Hyperrealistic Photography Portraits
 
+  Moses by michelangelo, background  style of gediminas pranckevicius, canon eos 1000d, ƒ/3.5, focal length: 18. mm, exposure time: 1/5, iso 400, flash on
+
+face with short green  hair and blue eyes, dramatic make-up, studio phototography, hyper detailed, trending on artstation, sharp focus, 8 k, studio photo, model intricate details, highly detailed, volumetric light, perfect
+
+big truck viewed from roof, hyper realistic, cinematic lighting, very high detailed, foggy background, shot on Fujifilm Superia 400, Short Light, 32k, cinematic composition, professional color grading, film grain, atmosphere, wondrous, very stormy
+
+
  Moses by michelangelo style of Bouguereau  . 
  background a fishing village with a few lights on a foggy fall morning, ink painting by Endre Penovac  
  style of hieronymus bosch, 
@@ -29,7 +36,7 @@ high definition,  elaborate, HDR, crisp quality
  
  
 39	“A portrait of a woman wearing a black dress and pearls, sitting in front of a fireplace, The background should feature a library or living room setting with bookshelves and antique furniture”
-40	“Full body portrait of a beautiful and sexy young woman, She is Swedish and wears a Skim dress, She is 18, Large eyes, large lips, small nose, summer evening, Looks like Christina Hendricks, Photograph taken with Canon EOS R3”
+40	“  summer evening, Looks like Christina Hendricks, Photograph taken with Canon EOS R3”
 
 41 and the moon rose, over an open field, Albert Gleizes figure style, beautiful blended hues style of Joseph Stella, fine art (figurative:1.6) oils, landscape format full width single image 768x512
  
