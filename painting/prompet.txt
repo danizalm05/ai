@@ -1,18 +1,15 @@
-<<<<<<< HEAD
- 
- 
- hourse and a donky, b/w outline art, full white, white background, coloring style, Sketch style, Sketch drawing
- 
- 
- 
- 
+ A cat scribbles a drawing on the wall with a crayon , a cozy room filled with toys and scattered papers, a child's boundless imagination, a child's drawing, warm golden sunlight filters in from a large window,  photorealism , sharp focus, 8k uhd, DSLR, photorealistic, hyperrealism, vivid color, post-processing, vibrant, color grading, highly complex, intricate, hyperrealistic, raytracing, physics-based rendering, RAW photo, masterpiece, highest quality, best shadow, best illustration
+
+
 =======
  Postapocalptic
->>>>>>> cef766bfd7f107a6a9ae88c3dcb8100014372f75
+
  style of Bouguereau  . 
  background a fishing village with a few lights on a foggy fall morning, ink painting by Endre Penovac  
  style of hieronymus bosch, 
  high detail, high definition, ultra realistic, sigma 24 mm, f/8 1/1000 sec. shutter  
+  
+ Background cubism abstract 
   
   
  style of    Chagall, Modigliani, Bak, Klee 
@@ -119,8 +116,14 @@ The Sculpture Studio -
 	  
 Negative Prompt 
 ---------------------------
-disfigured, ugly, deformed, mutated, ugly, blurry,
- mutilated, watermark,  
-picture in picture, picture on the wall, mangled, old, frame
+disfigured,   deformed, mutated,   blurry,
+ mutilated, watermark,   picture in picture,   mangled,  frame
+     cropped, worst quality, low quality, jpeg artifacts,  duplicate,   mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers 
 
+
+More than one head,  Frame, canvas, framed screen, golden frame, framed portrait, portrait frame, Deformed face, poorly draw human anatomy, body deformities,  deformed lips, deformed eyes, extremely long neck, deformed collarbone, deformed torso 
  
+    -------
+	
+	professional (full-length photo of a hourse ) in the jungle lake with waterfall on the background, ((sunset sun is shining)), (((side  view))), wet   hair , a real perfect   anatomy, detailed gorgeous face, beautiful symmetrical face,  , photo realistic, hyper realistic, lifelike, extremely high detail, sharp focus, cinematic light, (gods rays), (film grain), professionally color graded, highly detailed, depth of field, f/1. 4, 50mm, 8k 
+    

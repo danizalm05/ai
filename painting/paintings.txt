@@ -1,18 +1,30 @@
  
-<<<<<<< HEAD
-
-
-=======
+       
  
-  
->>>>>>> cef766bfd7f107a6a9ae88c3dcb8100014372f75
+ 
+ 
+ ----------------
+  The cray by Monk
+background of
 
+(extremely detailed) ((highly complex)), ((low-poly)) still life in the style of Joaquín Torres-García and Paul Klee, strongly geometric, shades of ochre, rust and blue with extreme black outlines, zentangle look
+extremely detailed intricate award winning 4K 3D high definition
+  
+ 
+ 
+-------------------
 Copy  image shift+win+s
 Copy only the image of the active window ALT+PRINT SCREEN.
 c0ke7er 
 aticglashom
 zdfgdg01
+
+
+https://prompthero.com/    zam 6g
+https://www.imgtools.co/convert-image       convert-image
+https://www.imgtools.co/resize-image        bach resize
 https://replicate.com/methexis-inc/img2prompt    turn image to  prompet
+https://stable-diffusion.site/image-to-prompt/  turn image to  prompet
    
    dan   Pas
 https://ai-finder.net      AI menu
@@ -24,7 +36,7 @@ https://deepdreamgenerator.com/
 https://clipdrop.co/ 
 https://dezgo.com/
 https://picfinder.ai/share/k/
- prompthero.com/ 
+
 
  
 https://scum.co 
@@ -44,7 +56,7 @@ https://www.artstation.com/
  
 
 
-https://prompthero.com/    zam 6g
+
 
 image colorizer zam  6g
 
@@ -53,16 +65,14 @@ image colorizer zam  6g
 https://beta.dreamstudio.ai/dream   discord  dani   Pa
 https://www.craiyon.com/
 
-photo editor
-<<<<<<< HEAD
+ 
+https://stable-diffusion.site/image-to-prompt/ 
+https://prompthero.com/    zam 6g
 https://www.imgtools.co/convert-image       convert-image
 https://www.imgtools.co/resize-image        bach resize
-
-=======
---------
-https://www.imgtools.co/convert-image       convert-image
-https://www.imgtools.co/resize-image        bach resize
->>>>>>> cef766bfd7f107a6a9ae88c3dcb8100014372f75
+https://replicate.com/methexis-inc/img2prompt    turn image to  prompet
+https://dezgo.com/
+ 
 https://www.befunky.com/create/      
 https://www1.lunapic.com/editor/index.php?action=devilish
 
