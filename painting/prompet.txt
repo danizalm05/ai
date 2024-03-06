@@ -1,3 +1,20 @@
+1.run  cmd as adminstrator
+
+2.netsh wlan show profilesc  :    
+        print history Profiles on interfac 
+
+3. netsh wlan show profiles name="network name" key=clear   
+       print wifi password
+  
+  
+ Guernica by  picasso , inspired by Jean Metzinger,   colorful comic,
+ super detailed color low poly art, modern - art - vector, vibrant scene, georgy kurasov,  
+ 
+   Henry Moore  abstract monumental bronze sculptures   , full height sculpture 
+ 
+ 
+ 
+ 
  
  a caricature of 5 British Judges with white Wig sitting on the same table with big eyes in Courtroom and one side view guilty man sitting in the middle ,
 
@@ -86,7 +103,7 @@ black and white ,   side view,
   
   
 Suytun Cenote: A Magical Cave in Mexico
-Henry Moore  2 figure  dancing raw photo 
+Henry Moore  2 figure  dancing against a dark background is visible only from light barely illuminating portions of the body from left side raw photo 
 Modern spiral shaped table design, made of wood, studio lighting
 Stream of consciousness in a vast landscape, black and white, 
 highly detailed digital painting fantasy intricate hdr Ultra 
@@ -109,7 +126,7 @@ style of  Ansel Adams
  atmosphere, wondrous, 
  stormy, cinematic lighting, very high detailed 
   
-
+A simple  war, an ink drawing, inspired by tim biskup, chris dyer, abstract art, detailed digital artwork, sharp high quality artwork, detailed painting“
 
 
 Venus And Adonis Oedipus and the Sphinx. Cupid and Psyche White Crucifixion    
