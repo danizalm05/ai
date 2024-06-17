@@ -5,9 +5,11 @@
 
 3. netsh wlan show profiles name="network name" key=clear   
        print wifi password
+
+
   
 3.1  Rough charcoal sketch on old paper,     clean line art   
-  
+ 3.2  loose sketchy brushstrokes, bright and colorful palette 
  full      height 
  
  
