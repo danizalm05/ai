@@ -1,13 +1,8 @@
-1.run  cmd as adminstrator
 
-2.netsh wlan show profilesc  :    
-        print history Profiles on interfac 
-
-3. netsh wlan show profiles name="network name" key=clear   
-       print wifi password
-
-
-fine line pencil drawing. Rainy day an old man  in a tattered hooded 
+   
+   
+fine line pencil drawing. Rainy day  Pablo Picasso's 
+ "Les Demoiselles d'Avignon " by Edward Hopper  in a tattered hooded 
 garment sitting on a pile of books   on a gritty urban street in a pond. 
 He holds a book , with big eyes peeking out from beneath the hood.  
 emphasizing the harshness of the environment and the man's expression. 
