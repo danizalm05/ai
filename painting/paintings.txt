@@ -9,6 +9,7 @@ https://pharmapsychotic.com/tools.html
 https://imagetoprompt.online/
 https://imagetoprompt.com/  
 https://boredhumans.com/photo_story.php 
+https://huggingface.co/spaces/hysts/SDXL?duplicate=true
 https://dezgo.com/ 
 https://redketchup.io/bulk-image-resizer
 
