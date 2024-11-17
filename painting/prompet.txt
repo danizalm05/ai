@@ -9,7 +9,7 @@ surroundings.
 
 
 
- a black and white drawing     inspired by "the scream" by Edoward Monk,
+ a black and white drawing using  4B-HB graphite pencil on A3 smooth bristol.   inspired by "the scream" by Edoward Monk,
    insanely intricate, extremely detailed linework, 
  intricate illustration, extremely fine ink lineart, 
  highly detailed linework, clean detailed art, insanely detailed linework, 
@@ -319,14 +319,14 @@ Negative Prompt
 ---------------------------
 disfigured,   deformed, mutated,  
  mutilated,    picture in picture,   mangled,  
-     cropped, worst quality, low quality, jpeg artifacts,  duplicate,   
+     cropped,   jpeg artifacts,  duplicate,   
 	 mutilated, out of frame, extra fingers, mutated hands, 
 	 poorly drawn hands, poorly drawn face, mutation, deformed, 
      dehydrated, bad anatomy, bad proportions, extra limbs, 
 	 disfigured, gross proportions, malformed limbs, missing arms, 
 	 missing legs, extra arms, extra legs, fused fingers 
   More than one head,  Frame, canvas, framed  , Deformed face,
- poorly draw human anatomy,cloned   face,
+  cloned   face,
  body deformities,  deformed lips, deformed eyes, 
  extremely long neck, deformed collarbone, deformed torso 
  
