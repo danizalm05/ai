@@ -22,10 +22,14 @@ https://poemai.net/
 https://toolbaz.com/writer/poem-generator
                    text to image
 -------------------------------------------------------
-https://app.genape.ai/text-to-image   zam
+
+ 
 https://stabledifffusion.com/tools/ai-image-generator
 https://huggingface.co/spaces/hysts/SDXL?duplicate=true
 https://dezgo.com/
+https://pollinations.ai/ 
+ 
+ 
  
 https://redketchup.io/bulk-image-resizer
 
