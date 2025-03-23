@@ -21,6 +21,8 @@ poems
 https://poemai.net/
 https://toolbaz.com/writer/poem-generator
 https://toolbaz.com/image/ai-image-generator
+https://quillbot.com/translate/english-to-hebrew
+
                    text to image
 -------------------------------------------------------
 
