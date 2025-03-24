@@ -16,7 +16,7 @@ using namespace cv;
 using namespace std;
 
 
-/////////////////  Images  //////////////////////
+/////////////////  Images  /  /////////////////////
 
 void main() {
 
