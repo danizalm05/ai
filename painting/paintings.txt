@@ -123,7 +123,8 @@ Long shot   Tilt-shift    Ferrari Cinematic Studio  Bokeh   Gopro
 
 Image Labeling   Annotation Tools
 https://medevel.com/image-annotation-tools-1831/
-====================================================	  
+====================================================
+https://annotateimage.com/	  
 https://markuphero.com
 https://annotely.com/ 
  
