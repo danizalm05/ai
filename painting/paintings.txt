@@ -1,7 +1,9 @@
  Copy  image shift+win+s
 Copy only the image of the active window ALT+PRINT SCREEN.
+https://artsandculture.google.com/category/artist
+
 pitom  c0ke7er.exe 
-pitom1 lu50.exe
+pitom1 lus50.exe
 aticglashom   
 
 
