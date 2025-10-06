@@ -45,7 +45,7 @@ https://www.img2go.com/
 https://stabledifffusion.com/tools/ai-image-generator
 https://huggingface.co/spaces/hysts/SDXL?duplicate=true
 https://dezgo.com/
-
+https://perchance.org/pretty-ai
 https://shedevrum.ai/en/text-to-image/
 
 https://pollinations.ai/ 
