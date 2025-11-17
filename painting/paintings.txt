@@ -21,8 +21,11 @@ https://www.nahariya.muni.il/urban-renewal-plan/
 https://imagetoprompt.online/
 https://imagetoprompt.com/  
 https://prompthero.com/search?q=surrealistic+style   
-                           image to text
+                       
+
+					   image to text
 		-------------------------------------------
+		Tang Yau Hoong
 https://aifaceswap.io/image-to-prompt/#app-playground
 https://imageprompt.org/image-to-prompt
 https://fluxailab.com/tools/image-to-prompt
