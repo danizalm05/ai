@@ -25,7 +25,7 @@ https://prompthero.com/search?q=surrealistic+style
 
 					   image to text
 		-------------------------------------------
-		Tang Yau Hoong
+		
 https://aifaceswap.io/image-to-prompt/#app-playground
 https://imageprompt.org/image-to-prompt
 https://fluxailab.com/tools/image-to-prompt
