@@ -54,9 +54,10 @@ https://shedevrum.ai/en/text-to-image/
 https://pollinations.ai/ 
 https://www.artguru.ai/ 
  
- 
+ resizer
+ ---------------
 https://redketchup.io/bulk-image-resizer
-
+https://unblurimage.ai/image-upscaler/
 
 1. stable-diffusion.site/image-to-prompt/ 
    stable-diffusion.site/#demo
